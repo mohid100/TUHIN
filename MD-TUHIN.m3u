@@ -742,19 +742,4 @@ https://sabbirhasan.pythonanywhere.com/worldcup/720p-paid
 #EXTINF:-1 group-title="Toffee PAID {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee PAID (480p)
 https://sabbirhasan.pythonanywhere.com/worldcup/480p-paid
 
-#EXTINF:-1 group-title="Toffee PAID 2 {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee PAID 2 (720p)
-https://sabbirhasan.pythonanywhere.com/worldcup/720p-server2-paid
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudi.openhd.lol/lb/premium293/index.m3u8
-#EXTINF:-1 group-title="OpenHD {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Arena 1 Premium (720p)
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webdi.openhd.lol/cdn/0vKnF7rSjW/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="OpenHD {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Fox Sports 1 (720p-60fps)
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudi.openhd.lol/ddy1/premium39/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="OpenHD {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",TRT1 (720p-60fps)
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-https://webudi.openhd.lol/primamax/prima900/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",VTV5 (720p)
-http://live.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8
 
