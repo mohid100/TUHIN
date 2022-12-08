@@ -269,7 +269,7 @@ http://15.1.1.38:8282/PTV-SPORTS/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="SPORTS",TITAS SPORTS HD-1
-http://tv.maguraplex.net:8000/live/toffee/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ1xMvZVFmdD7lK8iExslZvH276vaWM0VaBA&usqp=CAU", group-title="🔴 T20 World Cup", GTV HD
@@ -735,8 +735,26 @@ http://80.94.54.42/fashiontv/stream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="BD3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love nature(BD)
 
 
+#EXTINF:-1 group-title="Toffee PAID {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee PAID (Auto)
+https://sabbirhasan.pythonanywhere.com/worldcup/auto-paid
+#EXTINF:-1 group-title="Toffee PAID {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee PAID (720p)
+https://sabbirhasan.pythonanywhere.com/worldcup/720p-paid
+#EXTINF:-1 group-title="Toffee PAID {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee PAID (480p)
+https://sabbirhasan.pythonanywhere.com/worldcup/480p-paid
 
-
-
-
+#EXTINF:-1 group-title="Toffee PAID 2 {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee PAID 2 (720p)
+https://sabbirhasan.pythonanywhere.com/worldcup/720p-server2-paid
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudi.openhd.lol/lb/premium293/index.m3u8
+#EXTINF:-1 group-title="OpenHD {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Arena 1 Premium (720p)
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webdi.openhd.lol/cdn/0vKnF7rSjW/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="OpenHD {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Fox Sports 1 (720p-60fps)
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudi.openhd.lol/ddy1/premium39/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="OpenHD {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",TRT1 (720p-60fps)
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudi.openhd.lol/primamax/prima900/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Random {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",VTV5 (720p)
+http://live.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8
 
