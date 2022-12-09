@@ -15,7 +15,7 @@ http://15.1.1.10:8282/Ekattor-tv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="* BDIX19",INDEPENDENT TV
-http://15.1.1.38:8282/Independent-Tv/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/Independent-Tv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="* BDIX19",SOMOY TV
@@ -23,7 +23,7 @@ http://15.1.1.10:8282/Somoy-TV/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="* BDIX19",CHANNEL 24
-http://15.1.1.38:8282/Channel24/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/Channel24/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="* BDIX19",ATN NEWS
@@ -40,12 +40,12 @@ http://15.1.1.10:8282/News24bd/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="* BDIX19",JAMUNA TV
-http://15.1.1.34:8282/jamuna-tv/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/jamuna-tv/tracks-v1a1/mono.m3u8
 
 
 
 #EXTINF:-1 group-title="BD2" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png",BTV National(BD2)
-http://15.1.1.38:8282/btv/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/btv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png",BTV World(Jagobd)
@@ -96,7 +96,7 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/z9ca0b0m8zo4f4b/bangla-tv-bd.png" group-title="* BDIX19",Nagorik
-http://15.1.1.38:8282/nagorik-tv/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/nagorik-tv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png",ATN Bangla(Jagobd)
@@ -106,7 +106,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png",Channel I(Flixhub)
-http://15.1.1.38:8282/Channel-i/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/Channel-i/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png",Channel I(Jagobd)
@@ -138,17 +138,17 @@ http://15.1.1.10:8282/SATV/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png",MY TV(Jagobd)
-http://15.1.1.38:8282/MyTV/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/MyTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png",Asian TV(Jagobd)
 http://15.1.1.10:8282/AsianTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png",Bangla TV(Jagobd)
-http://15.1.1.38:8282/bangla-tv/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/bangla-tv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Anonoda%20Tv.png",Anando TV(Jagobd)
-http://15.1.1.38:8282/anandotv/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/anandotv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png",Banglavision(Jagobd)
@@ -173,7 +173,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQ0jP0U.png" group-title="Bangladesh",Mohona-TV
-http://15.1.1.34:8282/MohonaTV/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/MohonaTV/tracks-v1a1/mono.m3u8
 
 
 
@@ -184,7 +184,7 @@ http://15.1.1.10:8282/Ntv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="MUSIC",GAAN BANGLA HD
-http://15.1.1.34:8282/GaanBangla/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/GaanBangla/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgpile.com/images/58Yw1b.jpg",CAN BANGLA
 
@@ -208,14 +208,14 @@ http://15.1.1.10:8282/tv13/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="SPORTS",-**TITAS SPORTS HDtest100
-http://15.1.1.38:8282/tv14/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/tv14/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6HkX-3Xsavnad2qydXFRElQoefbCIINOh_Q&usqp=CAU", group-title="🔴 T20 World Cup", T20 World Cup 4
-http://15.1.1.34:8282/Adsports1/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/Adsports1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="SPORTS",-**TITAS SPORTS HDtest
-http://15.1.1.34:8282/Adsports2/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/Adsports2/tracks-v1a1/mono.m3u8
 
 
 
@@ -250,11 +250,11 @@ http://15.1.1.10:8282/sony-six-hd/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="IN | Ten 1 HD" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="CRICKET",IN | Ten 1 HD
-http://15.1.1.38:8282/ten1-hd/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/ten1-hd/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="IN | Ten 2 HD" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="CRICKET",IN :Ten-2 HD
-http://15.1.1.38:8282/sony-ten2/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/sony-ten2/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="IN | Ten 3 HD" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="CRICKET",IN | Ten 3 HD
@@ -262,7 +262,7 @@ http://15.1.1.10:8282/ten3/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="PK: PTV SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="CRICKET",PK: PTV SPORTS HD
-http://15.1.1.38:8282/PTV-SPORTS/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/PTV-SPORTS/tracks-v1a1/mono.m3u8
 
 
 
@@ -277,7 +277,7 @@ http://15.1.1.10:8282/GAZI-TV-HD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="SPORTS",-**TITAS SPORTS HDtest+
-http://15.1.1.38:8282/btv/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/btv/tracks-v1a1/mono.m3u8
 
 
 
@@ -295,7 +295,7 @@ http://15.1.1.10:8282/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="Skyfeed" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg",Star Sports 1
-http://15.1.1.38:8282/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
 
 
 
@@ -305,10 +305,10 @@ http://15.1.1.38:8282/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 (4K)" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="INDIAN SPORTS (4K UHD)",Star Sports Select 1 (4K)
-http://15.1.1.38:8282/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="IN | STAR SPORTS SELECT 2" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="CRICKET",IN|STAR SPORTS SELECT-2
-http://15.1.1.38:8282/select2/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/select2/tracks-v1a1/mono.m3u8
 
 
 
@@ -318,7 +318,7 @@ http://15.1.1.38:8282/select2/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/ten_sports.jpg" ,Ten Cricket
-http://15.1.1.34:8282/en1-p3/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/en1-p3/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="PK | Geo Super HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Geo_Super_logo.png" group-title="CRICKET",PK: Geo Super HD
@@ -339,7 +339,7 @@ http://15.1.1.34:8282/en1-p3/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="IN: Willow Cricket HD" tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="CRICKET",IN: Willow Cricket HD
-http://15.1.1.34:8282/willow-hd/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/willow-hd/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="PK: A Sports HD (Server 1)" tvg-logo="http://opplextv.com/logo/ASPORTSARY.jfif" group-title="CRICKET",PK: A Sports HD
@@ -408,10 +408,10 @@ http://15.1.1.34:8282/willow-hd/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png",Star Jalsha HD
-http://15.1.1.38:8282/jalsha/index.m3u8
+http://15.1.1.10:8282/jalsha/index.m3u8
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png",Zee Bangla HD(Flixhub)
-http://15.1.1.38:8282/zee-bangla/index.m3u8
+http://15.1.1.10:8282/zee-bangla/index.m3u8
 
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png",Zee Bangla HD
@@ -420,13 +420,13 @@ http://15.1.1.38:8282/zee-bangla/index.m3u8
 
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png",Sun Bangla(Flixhub)
-http://15.1.1.38:8282/sunbangla/index.m3u8
+http://15.1.1.10:8282/sunbangla/index.m3u8
 
 
 
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://ajkerproduct.com/wp-content/uploads/2021/01/Enter10-bangla-all-serial.jpg",Enter 10 Bangla
-http://15.1.1.38:8282/enterr10-bangla/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/enterr10-bangla/tracks-v1a1/mono.m3u8
 
 
 
@@ -453,11 +453,11 @@ http://15.1.1.10:8282/Sonyaath/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="SONY SAB (4K)" tvg-logo="http://openboxv8s.com/india/sony_sab_tv_asia.jpg" group-title="INDIAN (4K UHD)",SONY SAB (4K)
-http://15.1.1.34:8282/SONY-SUB/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/SONY-SUB/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png",Zee TV(Flixhub)
-http://15.1.1.34:8282/zee-tv-hd/index.m3u8
+http://15.1.1.10:8282/zee-tv-hd/index.m3u8
 
 
 
@@ -466,7 +466,7 @@ http://15.1.1.34:8282/zee-tv-hd/index.m3u8
 
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20TV.png",Sony TV(Flixhub)
-http://15.1.1.34:8282/SonyTVHD/index.m3u8
+http://15.1.1.10:8282/SonyTVHD/index.m3u8
 
 
 
@@ -475,7 +475,7 @@ http://15.1.1.34:8282/SonyTVHD/index.m3u8
 
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png",Star Plus(Flixhub)
-http://15.1.1.34:8282/star-plus/index.m3u8
+http://15.1.1.10:8282/star-plus/index.m3u8
 
 #EXTINF:-1 group-title="BD3" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png",Star Plus(BD3)
 
@@ -487,7 +487,7 @@ http://15.1.1.34:8282/star-plus/index.m3u8
 
 
 #EXTINF:-1 group-title="BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png",Colors(BD)
-http://15.1.1.34:8282/colorsindia/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/colorsindia/tracks-v1a1/mono.m3u8
 
 
 
@@ -534,16 +534,16 @@ http://15.1.1.34:8282/colorsindia/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="BD-Bangla: Star Jalsa Movies (4K)" tvg-logo="http://openboxv8s.com/india/star_jalsha_movies_in.png" group-title="BANGLADESH",BD-Bangla: Star Jalsa Movies (4K)
-http://15.1.1.38:8282/jalsha-movies/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/jalsha-movies/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png",Zee Bangla Cinema(Flixhub)
-http://15.1.1.34:8282/zee-bangla-cinema/index.m3u8
+http://15.1.1.10:8282/zee-bangla-cinema/index.m3u8
 
 
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png",Colors Bangla Cinema(Flixhub)
-http://15.1.1.34:8282/colore-bangla-cinema/index.m3u8
+http://15.1.1.10:8282/colore-bangla-cinema/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/Sony_Max_HD.png" group-title="Hindi",&pictures-HD
@@ -589,7 +589,7 @@ http://15.1.1.10:8282/colorscineplex/index.m3u8
 
 
 #EXTINF:-1 group-title="HINDI MOVIE" tvg-logo="https://tv.efiberbd.net/logo/din.png",Dhinchaak 2 HD
-http://15.1.1.38:8282/Dhinchaak/index.m3u8
+http://15.1.1.10:8282/Dhinchaak/index.m3u8
 
 
 
@@ -612,37 +612,37 @@ http://15.1.1.38:8282/Dhinchaak/index.m3u8
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png",Star Movies(Flixhub)
 
 #EXTINF:-1 group-title="BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png",Star Movies(BD)
-http://15.1.1.34:8282/star-movies-hd/index.m3u8
+http://15.1.1.10:8282/star-movies-hd/index.m3u8
 
 
 
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Pix.png",Sony Pix(Flixhub)
-http://15.1.1.34:8282/sony-pix-hd/index.m3u8
+http://15.1.1.10:8282/sony-pix-hd/index.m3u8
 
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Movies%20Now.png",Movies Now(Flixhub)
-http://15.1.1.38:8282/movies-now/index.m3u8
+http://15.1.1.10:8282/movies-now/index.m3u8
 
 
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png",MN+(Flixhub)
-http://15.1.1.34:8282/mn-hd/index.m3u8
+http://15.1.1.10:8282/mn-hd/index.m3u8
 
 
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MNX.png",MNX HD(Flixhub)
-http://15.1.1.38:8282/mnx-hd/index.m3u8
+http://15.1.1.10:8282/mnx-hd/index.m3u8
 
 
 #EXTINF:-1 group-title="BD3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg",Lotus Macau(BD3)
-http://15.1.1.38:8282/Lotus-Macau/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/Lotus-Macau/tracks-v1a1/mono.m3u8
 
 
 
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20World.png",Star World(Flixhub)
-http://15.1.1.34:8282/star-worldhd/index.m3u8
+http://15.1.1.10:8282/star-worldhd/index.m3u8
 
 
 
@@ -664,7 +664,7 @@ http://15.1.1.34:8282/star-worldhd/index.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://www.iwmbuzz.com/wp-content/uploads/2019/08/are-you-huge-music-aficionado-give-9xm-soundcaste-podcast-list-920x518.jpg" group-title="⚡ BANGLA ",BINDASS
-http://15.1.1.38:8282/bindass/index.m3u8
+http://15.1.1.10:8282/bindass/index.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://www.iwmbuzz.com/wp-content/uploads/2019/08/are-you-huge-music-aficionado-give-9xm-soundcaste-podcast-list-920x518.jpg" group-title="⚡ BANGLA ", 9xm
@@ -700,7 +700,7 @@ http://15.1.1.10:8282/Discovery-Science/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png",Net Geo HD(Flixhub)
-http://15.1.1.38:8282/natgeo-wild/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/natgeo-wild/tracks-v1a1/mono.m3u8
 
 
 
@@ -710,11 +710,11 @@ http://15.1.1.10:8282/ngohd/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png",Travel XP HD Bangla(Flixhub)
-http://15.1.1.38:8282/travel-xp/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/travel-xp/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg",Sony BBC Earth(Flixhub)
-http://15.1.1.38:8282/BBC-Earth/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/BBC-Earth/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png",Animal Planet(Flixhub)
 
@@ -728,7 +728,7 @@ http://15.1.1.38:8282/BBC-Earth/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tnguage="English" tvg-logo="https://i.imgur.com/ikorRe8.png" tvg-country="US" tvg-url="" group-title="bangla",A3BIKINI TV (720p)-1
-http://80.94.54.42/fashiontv/stream/playlist.m3u8?checkedby:iptvcat.com
+
 
 
 
