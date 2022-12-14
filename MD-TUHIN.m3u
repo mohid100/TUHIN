@@ -479,9 +479,10 @@ http://10.21.56.46:9191/zeetv/video.m3u8?token=rqIwQB1Aod9Br3
 http://15.1.1.10:8282/SonyTVHD/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://cdn.aliflailabd.com/tv/images/sony.png"group-title="HINDI",SONY HD
+http://10.21.56.46:9191/sony-hd/video.m3u8
 
 
-#EXTINF:-1 group-title="BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20TV.png",Sony TV(BD)
 
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png",Star Plus(Flixhub)
@@ -492,7 +493,8 @@ http://10.21.56.46:9191/star-plus/video.m3u8
 
 
 
-#EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png",Colors(Flixhub)
+#EXTINF:-1 tvg-logo="http://cdn.aliflailabd.com/tv/images/colors.png"group-title="HINDI",Colors
+http://10.21.56.46:9191/colors-hd/video.m3u8
 
 
 
