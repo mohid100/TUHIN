@@ -82,10 +82,7 @@ http://10.21.56.46:9191/desh-tv/video.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Desh_tv.png" group-title="Bangla Channels",Desh Tv
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BANGLA",DEEPTO TV hd
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ektolCR.png" group-title="Bangladesh", Asian TV
 
 
 
@@ -239,9 +236,6 @@ http://15.1.1.10:8282/tv13/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://cdn.aliflailabd.com/tv/images/gtv.png"group-title="BANGLA",GAZI TV
-http://10.21.56.46:9191/gazi-tv/video.m3u8
-
 
 
 
@@ -269,6 +263,9 @@ http://15.1.1.10:8282/ten3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PK: PTV SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="CRICKET",PK: PTV SPORTS HD
 http://15.1.1.10:8282/PTV-SPORTS/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:-1 tvg-logo="http://cdn.aliflailabd.com/tv/images/gtv.png"group-title="BANGLA",GAZI TV
+http://10.21.56.46:9191/gazi-tv/video.m3u8
 
 
 
