@@ -682,17 +682,17 @@ http://15.1.1.10:8282/bindass/index.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://www.iwmbuzz.com/wp-content/uploads/2019/08/are-you-huge-music-aficionado-give-9xm-soundcaste-podcast-list-920x518.jpg" group-title="⚡ BANGLA ", 9xm
-http://15.1.1.10:8282/9XM/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 group-title="BD3" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png",Zoom(BD3)
+#EXTINF:-1 tvg-logo="http://cdn.aliflailabd.com/tv/images/zoomtv.png"group-title="MUSIC",Zoom
+http://10.21.56.46:9191/zoom/video.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://cdn.aliflailabd.com/tv/images/mtv.png"group-title="MUSIC",MTV
 http://10.21.56.46:9191/mtv/video.m3u8
 
 
 #EXTINF:-1 group-title="BD2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU",Music India(BD2)
-http://15.1.1.10:8282/it-care-9xm-jalwa/tracks-v1a1/mono.m3u8
 
 
 
